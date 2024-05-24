@@ -16,7 +16,7 @@
   <img align="center" alt="css3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="c++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="c#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <alt="Entre outras.../>
+  <img align="center "alt="Entre outras..."src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k2NGV3enFjanRycHBid2UxZHlzOTFwcXAzbno3Zjh3d2hlZ3d4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFwwiVbXK991IE9NzL/giphy.gif"/>
 </div>
 
 ### Outros recursos 👀:
