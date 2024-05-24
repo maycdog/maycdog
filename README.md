@@ -5,7 +5,7 @@
 
 ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=maycdog&show_icons=true&theme=highcontrast)
 
-### Tecnologias que eu uso 💻:                        #(Sei o básico, sem foco em nenhuma, tenho conhecimentos de outras não citadas também)
+### Tecnologias que eu uso 💻:                  <b> #(Sei o básico, sem foco em nenhuma, tenho conhecimentos de outras não citadas também)
 
 <div style="display: inline_block"></br>
   <img align="center" alt="python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
