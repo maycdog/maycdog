@@ -16,7 +16,7 @@
   <img align="center" alt="css3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="c++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="c#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center "alt="Entre outras..."src="https://i.pinimg.com/564x/02/42/38/0242380a181f7837571d16d1f7ae1191.jpg"/>
+  ### Entre Outras...
 </div>
 
 ### Outros recursos 👀:
@@ -26,5 +26,6 @@
   <img align="center" alt="excel"src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img align="center" alt="pp"src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
   <img align="center" alt="w"src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img align="center "alt="Entre outras..."src="https://i.pinimg.com/564x/02/42/38/0242380a181f7837571d16d1f7ae1191.jpg"/>
 </div>
 
