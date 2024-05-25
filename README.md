@@ -16,7 +16,7 @@
   <img align="center" alt="css3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="c++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="c#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center "alt="Entre outras..."src="https://imgur.com/a/IVIGPd0"/>
+  <img align="center "alt="Entre outras..."src="https://media.istockphoto.com/id/1877315350/pt/foto/png-tea-bag-isolated-on-white-background.jpg?s=1024x1024&w=is&k=20&c=nJ3KXck3nIjDaitS8ELLoCDWZo3b8mnLB9PM0zqe9Rw="/>
 </div>
 
 ### Outros recursos 👀:
