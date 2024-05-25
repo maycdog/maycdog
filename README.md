@@ -16,7 +16,7 @@
   <img align="center" alt="css3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="c++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="c#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center "alt="Entre outras..."src="https://www.istockphoto.com/br/foto/panda-de-estima%C3%A7%C3%A3o-gm178051286-24490678"/>
+  <img align="center "alt="Entre outras..."src="https://i.pinimg.com/564x/02/42/38/0242380a181f7837571d16d1f7ae1191.jpg"/>
 </div>
 
 ### Outros recursos 👀:
