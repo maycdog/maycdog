@@ -27,6 +27,6 @@
   <img align="center" alt="excel"src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img align="center" alt="pp"src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
   <img align="center" alt="w"src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img align="center "alt="Entre outras..."/>
+  entre outras...
 </div>
 
